@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lagunilla;Sheryl;;;
-FN: Sheryl Lagunilla
+N:Dhote;Anubhuti;;;
+FN: Anubhuti Dhote
 ORG:ITCAN;
-TITLE:HR Executive
-EMAIL;type=INTERNET;type=WORK;type=pref:sheryl@itcan.biz
-TEL;type=WORK;type=VOICE:+65 8138 5190
+TITLE:Senior Manager – Client Engagement
+EMAIL;type=INTERNET;type=WORK;type=pref:anubhuti@itcan.biz
+TEL;type=WORK;type=VOICE:+65 9737 6712
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
